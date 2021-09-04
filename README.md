@@ -15,7 +15,7 @@ I am currently a 4th year student at the University of Edinburgh where I am doin
 
 ## Fun facts
 
-* I have been a Vegetarian for almost a year already. 🥦
+* I have been a Vegetarian for a year already. 🥦
 * I do Olympic Weightlifting. 🏋🏽‍♂️
 * I like reading a lot. Follow me on [goodreads](https://www.goodreads.com/user/show/91599660-pablo-mir)! 📚
 
