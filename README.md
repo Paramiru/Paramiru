@@ -2,8 +2,18 @@
 
 My name is Pablo Miró and I come from Valencia, Spain.
 I am currently a 4th year student at the University of Edinburgh where I am doing a BSc (Hons) Computer Science & Physics.
-* Currently working at Amazon Madrid as a SDE Intern.
-* I am setting up my website where I will write posts sometimes.
+
+## Work experience
+
+### SDE Intern at Amazon (May - August 2021)
+
+I was an SDE intern at Amazon Madrid for 14 weeks where I worked on Vegas, part of the INtech organisation.
+Had to migrate an internal tool which automated reports using several internal tools to Amazon Web Services. I was given the opportunity to:
+* write a design document the "Amazon way" examining every possible option for the project with the respective pros/cons, making an implementation plan, a proposal for the migration and many more things.
+* build the infrastructure of the app using CDK.
+* learn how to do unit testing exhaustively and write the tests for the project.
+* learn how different AWS services such as Lambda, S3, IAM (roles/users/policies), Cloudwatch, Route 53, VPC... work and use them.
+* become the owner of the project and decide by myself (with data to support my decisions, of course)
 
 ## Skills
 
