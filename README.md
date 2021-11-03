@@ -1,7 +1,7 @@
 ## Hello 👋🏼
 
 My name is Pablo Miró and I come from Valencia, Spain.
-I am currently a 4th year student at the University of Edinburgh where I am doing a BSc (Hons) Computer Science & Physics.
+I am currently a 4th year student at the University of Edinburgh where I do a BSc (Hons) Computer Science & Physics.
 
 ## Work experience
 
@@ -17,10 +17,10 @@ Had to migrate an internal tool which automated reports using several internal t
 
 ## Skills
 
-* Java and Python coder. 🐍
+* Java, Python and Typescript coder. 🐍
 * HTML & CSS3.
-* Some experience with Javascript, C++ and C.
-* Currently learning AWS, DynamoDB, Typescript...
+* Some experience with C++ and C.
+* AWS, DynamoDB, Flask.
 
 
 ## Fun facts
